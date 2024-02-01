@@ -1,7 +1,7 @@
 import MeetupList from "@/components/MeetupList";
 import Navbar from "@/components/Navbar";
 import React, { useEffect, useState } from "react";
-import { MongoClient } from "mongodb";
+// import { MongoClient } from "mongodb";
 
 const DUMMY_MEETUPS = [
   {
